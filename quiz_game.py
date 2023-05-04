@@ -51,3 +51,5 @@ elif score < 3 and score >= 1:
     print("NOT BAD!")
 else:
     print("YOU ARE AN IDIOT!")
+    
+print("/nTHE END")
